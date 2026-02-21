@@ -12,7 +12,7 @@ class FatZombie(Zombie):
         super().__init__()
         self.hp = 2
 
-class veryFatZombie(Zombie):
+class VeryFatZombie(Zombie):
     def __init__(self):
         super().__init__()
         self.hp = 3
